@@ -72,3 +72,4 @@ Durante o desenvolvimento foi adicionada uma nova funcionalidade de **prioridade
 Gabriel dos Santos Silva
 
 Curso: Análise e Desenvolvimento de Sistemas
+Projeto desenvolvido para a disciplina de Engenharia de Software.
