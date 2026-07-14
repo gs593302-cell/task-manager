@@ -73,3 +73,11 @@ Gabriel dos Santos Silva
 
 Curso: Análise e Desenvolvimento de Sistemas
 Projeto desenvolvido para a disciplina de Engenharia de Software.
+
+## Mudança de Escopo
+
+Durante o desenvolvimento foi identificada a necessidade de incluir uma prioridade para cada tarefa.
+
+No escopo inicial, o sistema permitia cadastrar, listar, editar e excluir tarefas. Após a revisão do projeto, foi adicionado o campo de prioridade, com as opções Baixa, Média e Alta.
+
+Essa mudança facilita a organização das tarefas e permite identificar quais atividades devem ser realizadas primeiro.
